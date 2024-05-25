@@ -1,0 +1,231 @@
+{
+    "Apple___Apple_scab": {
+        "symptoms": ["Olive-green or blackish velvety lesions on leaves", "Cracked, deformed fruit", "Premature leaf drop"],
+        "causes": ["Fungal infection caused by Venturia inaequalis"],
+        "prevention": ["Use resistant varieties", "Apply fungicides", "Remove and destroy infected plant debris"],
+        "cure": ["Apply appropriate fungicides", "Prune and remove infected parts"]
+    },
+    "Apple___Black_rot": {
+        "symptoms": ["Circular brown spots on leaves", "Shrunken, mummified fruit", "Cankers on branches"],
+        "causes": ["Fungal infection caused by Botryosphaeria obtusa"],
+        "prevention": ["Use resistant varieties", "Proper pruning", "Apply fungicides"],
+        "cure": ["Apply appropriate fungicides", "Remove and destroy infected plant material"]
+    },
+    "Apple___Cedar_apple_rust": {
+        "symptoms": ["Orange-yellow spots on leaves", "Distorted, stunted growth", "Galls on twigs and branches"],
+        "causes": ["Fungal infection caused by Gymnosporangium juniperi-virginianae"],
+        "prevention": ["Remove nearby cedar trees", "Apply fungicides", "Use resistant varieties"],
+        "cure": ["Apply appropriate fungicides", "Prune and remove infected parts"]
+    },
+    "Apple___healthy": {
+        "symptoms": ["No visible signs of disease"],
+        "causes": [],
+        "prevention": ["Maintain proper cultural practices", "Monitor for signs of disease"],
+        "cure": []
+    },
+    "Blueberry___healthy": {
+        "symptoms": ["No visible signs of disease"],
+        "causes": [],
+        "prevention": ["Maintain proper cultural practices", "Monitor for signs of disease"],
+        "cure": []
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+        "symptoms": ["White powdery growth on leaves, stems, and fruit", "Distorted or stunted growth"],
+        "causes": ["Fungal infection caused by Podosphaera clandestina or Sphaerotheca pannosa"],
+        "prevention": ["Use resistant varieties", "Apply fungicides", "Improve air circulation"],
+        "cure": ["Apply appropriate fungicides"]
+    },
+    "Cherry_(including_sour)___healthy": {
+        "symptoms": ["No visible signs of disease"],
+        "causes": [],
+        "prevention": ["Maintain proper cultural practices", "Monitor for signs of disease"],
+        "cure": []
+    },
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+        "symptoms": ["Rectangular gray or tan lesions on leaves", "Lesions may join to form larger blotches"],
+        "causes": ["Fungal infection caused by Cercospora zeae-maydis or Cercospora sorghi"],
+        "prevention": ["Use resistant varieties", "Crop rotation", "Apply fungicides"],
+        "cure": ["Apply appropriate fungicides"]
+    },
+    "Corn_(maize)___Common_rust_": {
+        "symptoms": ["Reddish-brown pustules on leaves, husks, and stalks", "Yellowing and premature drying of leaves"],
+        "causes": ["Fungal infection caused by Puccinia sorghi"],
+        "prevention": ["Use resistant varieties", "Crop rotation", "Apply fungicides"],
+        "cure": ["Apply appropriate fungicides"]
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+        "symptoms": ["Long elliptical gray-green lesions on leaves", "Lesions may join to form large dead areas"],
+        "causes": ["Fungal infection caused by Setosphaeria turcica"],
+        "prevention": ["Use resistant varieties", "Crop rotation", "Apply fungicides"],
+        "cure": ["Apply appropriate fungicides"]
+    },
+    "Corn_(maize)___healthy": {
+        "symptoms": ["No visible signs of disease"],
+        "causes": [],
+        "prevention": ["Maintain proper cultural practices", "Monitor for signs of disease"],
+        "cure": []
+    },
+    "Grape___Black_rot": {
+        "symptoms": ["Brown circular spots on leaves", "Shriveled, mummified fruit covered in pustules"],
+        "causes": ["Fungal infection caused by Guignardia bidwellii"],
+        "prevention": ["Use fungicides", "Proper pruning", "Improve air circulation"],
+        "cure": ["Apply appropriate fungicides", "Remove and destroy infected plant material"]
+    },
+    "Grape___Esca_(Black_Measles)": {
+        "symptoms": ["White or yellow spots on leaves", "Dark streaks on wood", "Shriveled fruit"],
+        "causes": ["Fungal infection caused by various fungi, including Phaeomoniella chlamydospora"],
+        "prevention": ["Use disease-free planting material", "Apply fungicides", "Proper pruning"],
+        "cure": ["Apply appropriate fungicides", "Remove and destroy infected plant material"]
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "symptoms": ["Circular reddish-brown spots on leaves", "Lesions may coalesce and cause defoliation"],
+        "causes": ["Fungal infection caused by Pseudocercospora vitis"],
+        "prevention": ["Use resistant varieties", "Apply fungicides", "Improve air circulation"],
+        "cure": ["Apply appropriate fungicides"]
+    },
+    "Grape___healthy": {
+        "symptoms": ["No visible signs of disease"],
+        "causes": [],
+        "prevention": ["Maintain proper cultural practices", "Monitor for signs of disease"],
+        "cure": []
+    },
+    
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "symptoms": ["Blotchy mottle on leaves", "Yellowing of shoots", "Premature fruit drop", "Bitter taste in fruit"],
+        "causes": ["Bacterial infection caused by Candidatus Liberibacter asiaticus or africanus"],
+        "prevention": ["Use disease-free nursery stock", "Control insect vectors", "Remove infected trees"],
+        "cure": ["There is no known cure. Removal and destruction of infected trees is recommended."]
+    },
+    "Peach___Bacterial_spot": {
+        "symptoms": ["Small, angular spots on leaves and fruit", "Spots may coalesce and cause defoliation"],
+        "causes": ["Bacterial infection caused by Xanthomonas arboricola pv. pruni"],
+        "prevention": ["Use disease-free nursery stock", "Apply copper-based bactericides", "Proper pruning"],
+        "cure": ["Apply appropriate bactericides", "Remove and destroy infected plant material"]
+    },
+    "Peach___healthy": {
+        "symptoms": ["No visible signs of disease"],
+        "causes": [],
+        "prevention": ["Maintain proper cultural practices", "Monitor for signs of disease"],
+        "cure": []
+    },
+    "Pepper,_bell___Bacterial_spot": {
+        "symptoms": ["Small, water-soaked spots on leaves and fruit", "Spots may turn brown with yellow halos"],
+        "causes": ["Bacterial infection caused by Xanthomonas euvesicatoria or X. vesicatoria"],
+        "prevention": ["Use disease-free seeds", "Apply copper-based bactericides", "Rotate crops"],
+        "cure": ["Apply appropriate bactericides", "Remove and destroy infected plant material"]
+    },
+    "Pepper,_bell___healthy": {
+        "symptoms": ["No visible signs of disease"],
+        "causes": [],
+        "prevention": ["Maintain proper cultural practices", "Monitor for signs of disease"],
+        "cure": []
+    },
+    "Potato___Early_blight": {
+        "symptoms": ["Brown, irregular spots on leaves", "Lesions may join and cause defoliation"],
+        "causes": ["Fungal infection caused by Alternaria solani"],
+        "prevention": ["Use disease-free seed tubers", "Apply fungicides", "Crop rotation"],
+        "cure": ["Apply appropriate fungicides", "Remove and destroy infected plant material"]
+    },
+    "Potato___Late_blight": {
+        "symptoms": ["Water-soaked lesions on leaves and stems", "White fuzzy growth on underside of leaves", "Firm, brown rot on tubers"],
+        "causes": ["Fungal-like oomycete infection caused by Phytophthora infestans"],
+        "prevention": ["Use disease-free seed tubers", "Apply fungicides", "Proper crop rotation", "Avoid overhead irrigation"],
+        "cure": ["Apply appropriate fungicides", "Remove and destroy infected plant material"]
+    },
+    "Potato___healthy": {
+        "symptoms": ["No visible signs of disease"],
+        "causes": [],
+        "prevention": ["Maintain proper cultural practices", "Monitor for signs of disease"],
+        "cure": []
+    },
+    "Raspberry___healthy": {
+        "symptoms": ["No visible signs of disease"],
+        "causes": [],
+        "prevention": ["Maintain proper cultural practices", "Monitor for signs of disease"],
+        "cure": []
+    },
+    "Soybean___healthy": {
+        "symptoms": ["No visible signs of disease"],
+        "causes": [],
+        "prevention": ["Maintain proper cultural practices", "Monitor for signs of disease"],
+        "cure": []
+    },
+    "Squash___Powdery_mildew": {
+        "symptoms": ["White, powdery growth on leaves and stems", "Leaf distortion and stunted growth"],
+        "causes": ["Fungal infection caused by Sphaerotheca fuliginea or Erysiphe cichoracearum"],
+        "prevention": ["Use resistant varieties", "Apply fungicides", "Improve air circulation"],
+        "cure": ["Apply appropriate fungicides"]
+    },
+    "Strawberry___Leaf_scorch": {
+        "symptoms": ["Dark purple or reddish-brown spots on leaves", "Leaf margins may appear scorched"],
+        "causes": ["Fungal infection caused by Diplocarpon earliana"],
+        "prevention": ["Use disease-free planting stock", "Apply fungicides", "Improve air circulation"],
+        "cure": ["Apply appropriate fungicides", "Remove and destroy infected plant material"]
+    },
+    "Strawberry___healthy": {
+        "symptoms": ["No visible signs of disease"],
+        "causes": [],
+        "prevention": ["Maintain proper cultural practices", "Monitor for signs of disease"],
+        "cure": []
+    },
+    "Tomato___Bacterial_spot": {
+        "symptoms": ["Small, angular, water-soaked spots on leaves and fruit", "Spots may turn brown with yellow halos"],
+        "causes": ["Bacterial infection caused by Xanthomonas campestris pv. vesicatoria"],
+        "prevention": ["Use disease-free seeds or transplants", "Apply copper-based bactericides", "Rotate crops"],
+        "cure": ["Apply appropriate bactericides", "Remove and destroy infected plant material"]
+    },
+    "Tomato___Early_blight": {
+        "symptoms": ["Brown, concentric lesions on leaves", "Lesions may join and cause defoliation", "Fruit may develop sunken areas"],
+        "causes": ["Fungal infection caused by Alternaria solani"],
+        "prevention": ["Use disease-free seeds or transplants", "Apply fungicides", "Crop rotation"],
+        "cure": ["Apply appropriate fungicides", "Remove and destroy infected plant material"]
+    },
+    "Tomato___Late_blight": {
+        "symptoms": ["Water-soaked lesions on leaves and stems", "White fuzzy growth on underside of leaves", "Firm, brown rot on fruit"],
+        "causes": ["Fungal-like oomycete infection caused by Phytophthora infestans"],
+        "prevention": ["Use disease-free seeds or transplants", "Apply fungicides", "Avoid overhead irrigation"],
+        "cure": ["Apply appropriate fungicides", "Remove and destroy infected plant material"]
+    },
+    "Tomato___Leaf_Mold": {
+        "symptoms": ["Yellow, moldy growth on upper leaf surface", "Leaf distortion and stunted growth"],
+        "causes": ["Fungal infection caused by Cladosporium fulvum"],
+        "prevention": ["Use resistant varieties", "Apply fungicides", "Improve air circulation"],
+        "cure": ["Apply appropriate fungicides", "Remove and destroy infected plant material"]
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "symptoms": ["Small, circular spots with gray centers and dark margins on leaves", "Lesions may join and cause defoliation"],
+        "causes": ["Fungal infection caused by Septoria lycopersici"],
+        "prevention": ["Use disease-free seeds or transplants", "Apply fungicides", "Crop rotation"],
+        "cure": ["Apply appropriate fungicides", "Remove and destroy infected plant material"]
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "symptoms": ["Stippled or webbed appearance on leaves", "Leaf discoloration and bronzing", "Severe infestations can defoliate plants"],
+        "causes": ["Infestation by two-spotted spider mite (Tetranychus urticae)"],
+        "prevention": ["Maintain proper plant nutrition", "Use insecticidal soap or horticultural oils", "Introduce natural predators"],
+        "cure": ["Apply appropriate miticides or insecticidal soaps", "Remove and destroy heavily infested plant material"]
+    },
+    "Tomato___Target_Spot": {
+        "symptoms": ["Brown, circular spots with concentric rings on leaves", "Lesions may join and cause defoliation"],
+        "causes": ["Fungal infection caused by Corynespora cassiicola"],
+        "prevention": ["Use disease-free seeds or transplants", "Apply fungicides", "Crop rotation"],
+        "cure": ["Apply appropriate fungicides", "Remove and destroy infected plant material"]
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "symptoms": ["Severe leaf yellowing and curling", "Stunted growth", "Flower and fruit distortion"],
+        "causes": ["Viral infection caused by Tomato Yellow Leaf Curl Virus (TYLCV)"],
+        "prevention": ["Use virus-free seeds or transplants", "Control insect vectors (whiteflies)", "Remove infected plants"],
+        "cure": ["There is no cure for viral infections. Removal and destruction of infected plants is recommended."]
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "symptoms": ["Mottled, distorted leaves", "Stunted growth", "Fruit may develop yellow or green streaks"],
+        "causes": ["Viral infection caused by Tomato Mosaic Virus (ToMV)"],
+        "prevention": ["Use virus-free seeds or transplants", "Control insect vectors (aphids, thrips)", "Remove infected plants"],
+        "cure": ["There is no cure for viral infections. Removal and destruction of infected plants is recommended."]
+    },
+    "Tomato___healthy": {
+        "symptoms": ["No visible signs of disease"],
+        "causes": [],
+        "prevention": ["Maintain proper cultural practices", "Monitor for signs of disease"],
+        "cure": []
+    }
+}
