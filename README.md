@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ## Usage
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Plant_Leaf_Disease_Detection.git
+https://github.com/Rhythm05Roy/Plant-Leaf-Disease-Detection.git
 cd Plant_Leaf_Disease_Detection
 ```
 
