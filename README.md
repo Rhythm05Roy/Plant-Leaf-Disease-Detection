@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ### 1. Clone the Repository
 ```bash
 https://github.com/Rhythm05Roy/Plant-Leaf-Disease-Detection.git
-cd Plant_Leaf_Disease_Detection
+Plant-Leaf-Disease-Detection
 ```
 
 ### 2. Run the Application
